@@ -1,0 +1,4 @@
+processor,score_single_precision,score_half_precision,score_quantized
+Intel Core i3-3120M,311,193,282
+Intel Core i7-8565U,689,376,1178
+Intel Core i5-13420H,1490,791,2823
